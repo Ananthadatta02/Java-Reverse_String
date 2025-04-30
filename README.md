@@ -1,5 +1,3 @@
-
-
 # Reverse a String in Java
 
 ## Overview
